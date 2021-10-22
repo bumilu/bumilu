@@ -1,4 +1,13 @@
-### Hi there 👋
+<br /><br />  
+~~目前还没规划好 等等再说吧~~  
+- [x] 书签收藏页 21.10.22
+- [ ] 做一个书摘
+- [ ] 剩下的还没想到
+
+<br /><br /><br />
+
+
+
 
 <!--
 **bumilu/bumilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
